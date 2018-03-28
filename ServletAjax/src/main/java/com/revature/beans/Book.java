@@ -1,5 +1,5 @@
 package com.revature.beans;
-
+//putty
 public class Book {
 
 	String title;
